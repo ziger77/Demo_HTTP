@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Einführung in Äpfel - Schweiz",
+      "content": "In diesem Beitrag werden wir die verschiedenen Arten von Äpfeln und ihre ernährungsphysiologischen Vorteile in der Schweiz erkunden.",
+      "anbau": [ "Berner Oberland", "Thurgau", "Aargau" ]
+    },
+    {
+      "id": 2,
+      "title": "Mango-Rezepte - Spanien",
+      "content": "Entdecken Sie leckere Rezepte mit frischen Mangos aus Spanien, darunter Smoothies, Salate und Desserts.",
+      "anbau": [ "Andalusien", "Kanarische Inseln" ]
+    },
+    {
+      "id": 3,
+      "title": "Gesundheitliche Vorteile von Orangen - Italien",
+      "content": "Erfahren Sie mehr über die gesundheitlichen Vorteile von Orangen und ihre Bedeutung in der italienischen Küche.",
+      "anbau": [ "Sizilien", "Kalabrien" ]
+    },
+    {
+      "id": 4,
+      "title": "Bananen - Costa Rica",
+      "content": "Tauchen Sie ein in die Welt der Bananen aus Costa Rica und entdecken Sie ihre vielfältigen Verwendungsmöglichkeiten.",
+      "anbau": [ "Limon", "Puntarenas" ]
+    },
+    {
+      "id": 5,
+      "title": "Erdbeer-Anbau - Deutschland",
+      "content": "Erfahren Sie mehr über den Anbau von Erdbeeren in Deutschland und entdecken Sie leckere Erdbeerrezepte.",
+      "anbau": [ "Niedersachsen", "Baden-Württemberg" ]
+    },
+    {
+      "id": 6,
+      "title": "Ananas - Thailand",
+      "content": "Tauchen Sie ein in die exotische Welt der Ananas aus Thailand und erfahren Sie mehr über ihre süßen Aromen.",
+      "anbau": [ "Prachuap Khiri Khan", "Chumphon" ]
+    },
+    {
+      "id": 7,
+      "title": "Kirschen - Türkei",
+      "content": "Entdecken Sie die köstlichen Kirschen aus der Türkei und erfahren Sie mehr über ihre Saison und Sorten.",
+      "anbau": [ "Isparta", "Bursa" ]
+    },
+    {
+      "id": 8,
+      "title": "Zitronen - Spanien",
+      "content": "Erfahren Sie mehr über den Anbau von Zitronen in Spanien und ihre Verwendung in der mediterranen Küche.",
+      "anbau": [ "Murcia", "Valencia" ]
+    },
+    {
+      "id": 9,
+      "title": "Traubenwein - Frankreich",
+      "content": "Entdecken Sie die traditionellen Weinanbaugebiete in Frankreich und erfahren Sie mehr über den Anbau von Trauben und die Herstellung von Wein.",
+      "anbau": [ "Bordeaux", "Burgund" ]
+    }
+  ],
+  "profile": {
+    "name": "Giovanelli Fruchtimport AG"
+
+  }
+ 
+}
