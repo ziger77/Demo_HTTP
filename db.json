@@ -1,63 +1,61 @@
 {
-  "posts": [
+  "fruits": [
     {
       "id": 1,
-      "title": "Einführung in Äpfel - Schweiz",
-      "content": "In diesem Beitrag werden wir die verschiedenen Arten von Äpfeln und ihre ernährungsphysiologischen Vorteile in der Schweiz erkunden.",
-      "anbau": [ "Berner Oberland", "Thurgau", "Aargau" ]
+      "name": "Apfel",
+      "description": "In diesem Beitrag werden wir die verschiedenen Arten von Äpfeln und ihre ernährungsphysiologischen Vorteile in der Schweiz erkunden.",
+      "origin": "Schweiz"
     },
     {
       "id": 2,
-      "title": "Mango-Rezepte - Spanien",
-      "content": "Entdecken Sie leckere Rezepte mit frischen Mangos aus Spanien, darunter Smoothies, Salate und Desserts.",
-      "anbau": [ "Andalusien", "Kanarische Inseln" ]
+      "name": "Mango",
+      "description": "Entdecken Sie leckere Rezepte mit frischen Mangos aus Spanien, darunter Smoothies, Salate und Desserts.",
+      "origin": "Spanien"
     },
     {
       "id": 3,
-      "title": "Gesundheitliche Vorteile von Orangen - Italien",
-      "content": "Erfahren Sie mehr über die gesundheitlichen Vorteile von Orangen und ihre Bedeutung in der italienischen Küche.",
-      "anbau": [ "Sizilien", "Kalabrien" ]
+      "name": "Orange",
+      "description": "Erfahren Sie mehr über die gesundheitlichen Vorteile von Orangen und ihre Bedeutung in der italienischen Küche.",
+      "origin": "Italien"
     },
     {
       "id": 4,
-      "title": "Bananen - Costa Rica",
-      "content": "Tauchen Sie ein in die Welt der Bananen aus Costa Rica und entdecken Sie ihre vielfältigen Verwendungsmöglichkeiten.",
-      "anbau": [ "Limon", "Puntarenas" ]
+      "name": "Banane",
+      "description": "Tauchen Sie ein in die Welt der Bananen aus Costa Rica und entdecken Sie ihre vielfältigen Verwendungsmöglichkeiten.",
+      "origin": "Costa Rica"
     },
     {
       "id": 5,
-      "title": "Erdbeer-Anbau - Deutschland",
-      "content": "Erfahren Sie mehr über den Anbau von Erdbeeren in Deutschland und entdecken Sie leckere Erdbeerrezepte.",
-      "anbau": [ "Niedersachsen", "Baden-Württemberg" ]
+      "name": "Erdbeere",
+      "description": "Erfahren Sie mehr über den Anbau von Erdbeeren in Deutschland und entdecken Sie leckere Erdbeerrezepte.",
+      "origin": "Deutschland"
     },
     {
       "id": 6,
-      "title": "Ananas - Thailand",
-      "content": "Tauchen Sie ein in die exotische Welt der Ananas aus Thailand und erfahren Sie mehr über ihre süßen Aromen.",
-      "anbau": [ "Prachuap Khiri Khan", "Chumphon" ]
+      "name": "Ananas",
+      "description": "Tauchen Sie ein in die exotische Welt der Ananas aus Thailand und erfahren Sie mehr über ihre süßen Aromen.",
+      "origin": "Thailand"
     },
     {
       "id": 7,
-      "title": "Kirschen - Türkei",
-      "content": "Entdecken Sie die köstlichen Kirschen aus der Türkei und erfahren Sie mehr über ihre Saison und Sorten.",
-      "anbau": [ "Isparta", "Bursa" ]
+      "name": "Kirsche",
+      "description": "Entdecken Sie die köstlichen Kirschen aus der Türkei und erfahren Sie mehr über ihre Saison und Sorten.",
+      "origin": "Türkei"
     },
     {
       "id": 8,
-      "title": "Zitronen - Spanien",
-      "content": "Erfahren Sie mehr über den Anbau von Zitronen in Spanien und ihre Verwendung in der mediterranen Küche.",
-      "anbau": [ "Murcia", "Valencia" ]
+      "name": "Zitrone",
+      "description": "Erfahren Sie mehr über den Anbau von Zitronen in Spanien und ihre Verwendung in der mediterranen Küche.",
+      "origin": "Spanien"
     },
     {
       "id": 9,
-      "title": "Traubenwein - Frankreich",
-      "content": "Entdecken Sie die traditionellen Weinanbaugebiete in Frankreich und erfahren Sie mehr über den Anbau von Trauben und die Herstellung von Wein.",
-      "anbau": [ "Bordeaux", "Burgund" ]
+      "name": "Traube",
+      "description": "Entdecken Sie die traditionellen Weinanbaugebiete in Frankreich und erfahren Sie mehr über den Anbau von Trauben und die Herstellung von Wein.",
+      "origin": "Frankreich"
     }
   ],
   "profile": {
     "name": "Giovanelli Fruchtimport AG"
-
   }
- 
 }
