@@ -4,55 +4,64 @@
       "id": 1,
       "name": "Apfel",
       "description": "In diesem Beitrag werden wir die verschiedenen Arten von Äpfeln und ihre ernährungsphysiologischen Vorteile in der Schweiz erkunden.",
-      "origin": "Schweiz"
+      "origin": "Schweiz",
+      "created": "2023-07-09"
     },
     {
       "id": 2,
       "name": "Mango",
       "description": "Entdecken Sie leckere Rezepte mit frischen Mangos aus Spanien, darunter Smoothies, Salate und Desserts.",
-      "origin": "Spanien"
+      "origin": "Spanien",
+      "created": "2023-07-08"
     },
     {
       "id": 3,
       "name": "Orange",
       "description": "Erfahren Sie mehr über die gesundheitlichen Vorteile von Orangen und ihre Bedeutung in der italienischen Küche.",
-      "origin": "Italien"
+      "origin": "Italien",
+      "created": "2023-07-07"
     },
     {
       "id": 4,
       "name": "Banane",
       "description": "Tauchen Sie ein in die Welt der Bananen aus Costa Rica und entdecken Sie ihre vielfältigen Verwendungsmöglichkeiten.",
-      "origin": "Costa Rica"
+      "origin": "Costa Rica",
+      "created": "2023-07-06"
     },
     {
       "id": 5,
       "name": "Erdbeere",
       "description": "Erfahren Sie mehr über den Anbau von Erdbeeren in Deutschland und entdecken Sie leckere Erdbeerrezepte.",
-      "origin": "Deutschland"
+      "origin": "Deutschland",
+      "created": "2023-07-05"
     },
     {
       "id": 6,
       "name": "Ananas",
       "description": "Tauchen Sie ein in die exotische Welt der Ananas aus Thailand und erfahren Sie mehr über ihre süßen Aromen.",
-      "origin": "Thailand"
+      "origin": "Thailand",
+      "created": "2023-07-04"
     },
     {
       "id": 7,
       "name": "Kirsche",
       "description": "Entdecken Sie die köstlichen Kirschen aus der Türkei und erfahren Sie mehr über ihre Saison und Sorten.",
-      "origin": "Türkei"
+      "origin": "Türkei",
+      "created": "2023-07-03"
     },
     {
       "id": 8,
       "name": "Zitrone",
       "description": "Erfahren Sie mehr über den Anbau von Zitronen in Spanien und ihre Verwendung in der mediterranen Küche.",
-      "origin": "Spanien"
+      "origin": "Spanien",
+      "created": "2023-07-02"
     },
     {
       "id": 9,
       "name": "Traube",
       "description": "Entdecken Sie die traditionellen Weinanbaugebiete in Frankreich und erfahren Sie mehr über den Anbau von Trauben und die Herstellung von Wein.",
-      "origin": "Frankreich"
+      "origin": "Frankreich",
+      "created": "2023-07-01"
     }
   ],
   "profile": {
